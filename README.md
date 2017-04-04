@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/create-react-app.png?downloads=true)](https://www.npmjs.com/package/create-react-app)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-create-react-app/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-create-react-app_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-create-react-app/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-create-react-app/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-create-react-app_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-create-react-app/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-create-react-app/build/screenCapture.npmPackageListing.svg)
 
