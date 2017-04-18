@@ -1,9 +1,14 @@
-# api documentation for  [create-react-app (v1.3.0)](https://github.com/facebookincubator/create-react-app#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-create-react-app.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-create-react-app) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-create-react-app.svg)](https://travis-ci.org/npmdoc/node-npmdoc-create-react-app)
+# npmdoc-create-react-app
+
+#### api documentation for  [create-react-app (v1.3.0)](https://github.com/facebookincubator/create-react-app#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-create-react-app.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-create-react-app) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-create-react-app.svg)](https://travis-ci.org/npmdoc/node-npmdoc-create-react-app)
+
 #### Create React apps with no build configuration.
 
-[![NPM](https://nodei.co/npm/create-react-app.png?downloads=true)](https://www.npmjs.com/package/create-react-app)
+[![NPM](https://nodei.co/npm/create-react-app.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/create-react-app)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-create-react-app/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-create-react-app_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-create-react-app/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-create-react-app/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-create-react-app/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-create-react-app/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-create-react-app/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-create-react-app/build/screenCapture.npmPackageListing.svg)
 
@@ -53,29 +58,23 @@
     "license": "BSD-3-Clause",
     "maintainers": [
         {
-            "name": "cpojer",
-            "email": "christoph.pojer@gmail.com"
+            "name": "cpojer"
         },
         {
-            "name": "fson",
-            "email": "ville.immonen@iki.fi"
+            "name": "fson"
         },
         {
-            "name": "gaearon",
-            "email": "dan.abramov@gmail.com"
+            "name": "gaearon"
         },
         {
-            "name": "timer",
-            "email": "timer150@gmail.com"
+            "name": "timer"
         },
         {
-            "name": "vjeux",
-            "email": "vjeuxx@gmail.com"
+            "name": "vjeux"
         }
     ],
     "name": "create-react-app",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/facebookincubator/create-react-app.git"
@@ -84,16 +83,6 @@
     "version": "1.3.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module create-react-app](#apidoc.module.create-react-app)
-
-
-
-# <a name="apidoc.module.create-react-app"></a>[module create-react-app](#apidoc.module.create-react-app)
 
 
 
