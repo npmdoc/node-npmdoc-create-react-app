@@ -1,6 +1,6 @@
 # npmdoc-create-react-app
 
-#### api documentation for  [create-react-app (v1.3.0)](https://github.com/facebookincubator/create-react-app#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-create-react-app.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-create-react-app) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-create-react-app.svg)](https://travis-ci.org/npmdoc/node-npmdoc-create-react-app)
+#### basic api documentation for  [create-react-app (v1.3.0)](https://github.com/facebookincubator/create-react-app#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-create-react-app.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-create-react-app) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-create-react-app.svg)](https://travis-ci.org/npmdoc/node-npmdoc-create-react-app)
 
 #### Create React apps with no build configuration.
 
